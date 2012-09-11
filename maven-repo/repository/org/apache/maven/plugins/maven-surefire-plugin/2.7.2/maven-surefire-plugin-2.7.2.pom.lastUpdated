@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sun Jul 01 18:20:55 ICT 2012
+default-http\://maven.goldengekko.com\:8001/nexus/content/groups/public/.lastUpdated=1341141655061
+http\://maven.goldengekko.com\:8001/nexus/content/groups/public/.error=Could not transfer artifact org.apache.maven.plugins\:maven-surefire-plugin\:pom\:2.7.2 from/to inhouse_nexus (http\://maven.goldengekko.com\:8001/nexus/content/groups/public)\: Access denied to\: http\://maven.goldengekko.com\:8001/nexus/content/groups/public/org/apache/maven/plugins/maven-surefire-plugin/2.7.2/maven-surefire-plugin-2.7.2.pom

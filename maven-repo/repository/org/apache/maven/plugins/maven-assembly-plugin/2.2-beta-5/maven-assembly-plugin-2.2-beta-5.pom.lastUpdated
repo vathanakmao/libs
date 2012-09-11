@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sun Jul 01 18:20:56 ICT 2012
+default-http\://maven.goldengekko.com\:8001/nexus/content/groups/public/.lastUpdated=1341141656253
+http\://maven.goldengekko.com\:8001/nexus/content/groups/public/.error=Could not transfer artifact org.apache.maven.plugins\:maven-assembly-plugin\:pom\:2.2-beta-5 from/to inhouse_nexus (http\://maven.goldengekko.com\:8001/nexus/content/groups/public)\: Access denied to\: http\://maven.goldengekko.com\:8001/nexus/content/groups/public/org/apache/maven/plugins/maven-assembly-plugin/2.2-beta-5/maven-assembly-plugin-2.2-beta-5.pom

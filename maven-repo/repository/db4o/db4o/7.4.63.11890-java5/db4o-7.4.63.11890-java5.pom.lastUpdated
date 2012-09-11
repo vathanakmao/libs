@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sun Jul 22 17:56:05 ICT 2012
+http\://repo1.maven.org/maven2/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1342954530306
+legacy-file\:../../local.repository/trunk/.lastUpdated=1342954565450
+file\:../../local.repository/trunk/.error=Could not transfer artifact db4o\:db4o\:pom\:7.4.63.11890-java5 from/to local.repository (file\:../../local.repository/trunk)\: No connector available to access repository local.repository (file\:../../local.repository/trunk) of type legacy using the available factories WagonRepositoryConnectorFactory
